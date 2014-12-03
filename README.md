@@ -6,3 +6,5 @@ Having recently found the ipywidgets library developed by Jake Vanderplas, I've 
 -> given the fact that the .ipynb notebooks support equations written in latex, I need to add the relevant theory/context to each of the notebooks. and reconvert them to html files.
 -> a simulation of how a quasar spectrum will look in redshift space and how the colors in various bands, u, g, r, i & z, will change wrt redshift.
 -> the amplitude of a harmonic oscillator, damped oscillator and a damped-driven oscillator. for various k (force constant) and gamma (damping coefficient)
+-> the radial probability distrubution functions of an electron in the 1s, 2s, 2p and so on shells.
+-> the 4f optical fourier processor and spatial fourier transform + analysis + bandpass
