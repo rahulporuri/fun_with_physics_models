@@ -8,3 +8,5 @@ Having recently found the ipywidgets library developed by Jake Vanderplas, I've 
 -> the amplitude of a harmonic oscillator, damped oscillator and a damped-driven oscillator. for various k (force constant) and gamma (damping coefficient)
 -> the radial probability distrubution functions of an electron in the 1s, 2s, 2p and so on shells.
 -> the 4f optical fourier processor and spatial fourier transform + analysis + bandpass
+
+http://www.myphysicslab.com/index.html looks like a good list of simple physics simulations
