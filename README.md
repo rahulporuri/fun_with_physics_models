@@ -1,7 +1,7 @@
 fun_with_physics_models
 =======================
 
-Having recently found the ipywidgets library developed by Jake Vanderplas, I've been using it to make simple interactive plots to display physics or math concepts. I've implemented a couple of examples so far such as the temperature dependent blackbody radiation spectrum, the diffraction pattern from slits of various shapes etc. More to come. You can access the ipython notebooks [here](http://nbviewer.ipython.org/github/rahulporuri/fun_with_physics_models/tree/master/), at nbviewer online!
+Having recently found the ipywidgets library developed by Jake Vanderplas, I've been using it to make simple interactive plots to display physics or math concepts. I've implemented a couple of examples so far such as the temperature dependent blackbody radiation spectrum, the diffraction pattern from slits of various shapes etc. More to come. You can access the ipython notebooks [here](http://nbviewer.ipython.org/github/rahulporuri/fun_with_physics_models/tree/master/), at nbviewer online! You can also view them online, as html files [here](http://rahulporuri.github.io/blog.html).
 
 (working) visualizations
 ====
